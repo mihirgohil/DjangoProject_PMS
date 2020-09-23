@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse('Home')
+    return HttpResponse('Home harsh')
