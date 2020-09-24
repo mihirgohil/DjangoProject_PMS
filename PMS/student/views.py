@@ -4,5 +4,5 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 
-def home(request):
+def Studnet_home(request):
     return HttpResponse('Home harsh sexy kam ')
